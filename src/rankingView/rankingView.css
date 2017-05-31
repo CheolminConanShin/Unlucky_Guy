@@ -1,0 +1,86 @@
+@font-face {
+    font-family: NanumBarunGothic;
+    src: url("../assets/fonts/NanumBarunGothic.eot"), url("../assets/fonts/NanumBarunGothic.ttf"), url("../assets/fonts/NanumBarunGothic.woff"), url("../assets/fonts/NanumBarunGothic.woff2")
+}
+
+body{
+    font-family: NanumBarunGothic;
+    font-size: 45px;
+    color: #4e4e4e;
+}
+
+#title {
+    margin: 4.4vh 0;
+    text-align: center;
+}
+
+#title img{
+    width: 55vw;
+    vertical-align: middle;
+}
+
+#rankingBoard{
+    overflow-y: scroll;
+    height: 70vh;
+    display: block;
+    padding: 0 10vw;
+}
+
+#buttonContainer {
+    text-align: center;
+}
+
+#notMeButton{
+    background-color: #f27446;
+    width: 78vw;
+    height: 10vh;
+    border-radius: 100px;
+    color: white;
+    font-size: 47px;
+    font-weight: lighter;
+}
+
+#rankingBoard #firstRankRow {
+    height: 15vh;
+    border-radius: 15px;
+    background: #eff0e6;
+    line-height: 15vh;
+    text-align: center;
+    margin-bottom: 2.5vh;
+}
+
+#rankingBoard #firstRankRow .icons {
+    width: 15.5vw;
+    vertical-align: middle;
+}
+
+#rankingBoard tbody {
+    display:grid;
+}
+
+#rankingBoard tr {
+    height: 7.5vh;
+    text-align: center;
+}
+
+#rankingBoard .nameField {
+    text-align: left;
+}
+
+#rankingBoard .multiple {
+    width: 6%;
+    margin-left: 2%;
+}
+
+#rankingBoard .numberField {
+    width: 14%;
+}
+
+#rankingBoard td {
+    display: inline-block;
+    width : 23%
+}
+
+#rankingBoard .icons {
+    width : 8.8vw;
+}

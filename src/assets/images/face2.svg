@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+    <defs>
+        <ellipse id="a" cx="12.856" cy="12.842" rx="12.856" ry="12.842"/>
+        <path id="c" d="M2.04 7.338a12.324 12.324 0 0 1 10.654-6.115c4.546 0 8.517 2.458 10.654 6.115H2.04z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(18)">
+        <ellipse cx="142.237" cy="105.464" fill="#D85151" rx="21.883" ry="21.858"/>
+        <ellipse cx="149.896" cy="113.661" fill="#EEBA64" rx="6.565" ry="6.557"/>
+        <ellipse cx="151.537" cy="121.858" fill="#D8D8D8" rx="4.377" ry="4.372"/>
+        <ellipse cx="43.765" cy="107.104" fill="#D85151" rx="21.883" ry="21.858"/>
+        <rect width="101.754" height="153.552" x="46.501" y="46.448" fill="#EEBA64" rx="50.877"/>
+        <ellipse cx="46.774" cy="46.721" fill="#D85151" rx="46.774" ry="46.721"/>
+        <ellipse cx="97.651" cy="46.721" fill="#D85151" rx="30.909" ry="30.874"/>
+        <ellipse cx="142.237" cy="63.388" fill="#D85151" rx="21.883" ry="21.858"/>
+        <ellipse cx="125.825" cy="115.847" fill="#717171" rx="5.471" ry="5.464"/>
+        <ellipse cx="102.848" cy="143.716" fill="#717171" rx="2.735" ry="2.732"/>
+        <ellipse cx="90.813" cy="143.716" fill="#717171" rx="2.735" ry="2.732"/>
+        <ellipse cx="66.195" cy="115.847" fill="#717171" rx="5.471" ry="5.464"/>
+        <g transform="translate(35.012 86.339)">
+            <path fill="#D8D8D8" d="M43.88 10.78L10.046 31.922a22.031 22.031 0 0 1-.199-2.96c0-12.072 9.797-21.858 21.883-21.858 4.495 0 8.674 1.354 12.15 3.676z"/>
+            <path fill="#717171" d="M36.97 7.104H9.847V29.78C14.158 18.11 24.43 9.324 36.97 7.104z"/>
+            <ellipse cx="6.565" cy="27.322" fill="#EEBA64" rx="6.565" ry="6.557"/>
+            <ellipse cx="7.112" cy="35.519" fill="#D8D8D8" rx="4.377" ry="4.372"/>
+            <ellipse cx="31.73" cy="29.508" stroke="#717171" stroke-width="7" rx="21.883" ry="21.858"/>
+            <path fill="#D8D8D8" d="M68.477 32.591l33.075-22.31a22.031 22.031 0 0 0-2.623-1.385c-11.028-4.91-23.953.06-28.869 11.1a21.798 21.798 0 0 0-1.583 12.595z"/>
+            <path fill="#717171" d="M87.53 7.127h27.124v22.677c-4.311-11.67-14.582-20.457-27.124-22.677z"/>
+            <ellipse cx="91.36" cy="29.531" stroke="#717171" stroke-width="7" rx="21.883" ry="21.858" transform="matrix(-1 0 0 1 182.72 0)"/>
+            <path fill="#717171" d="M54.707 24.044h14.224v5.464H54.707z"/>
+        </g>
+        <g transform="translate(84.248 156.83)">
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <use fill="#D85151" xlink:href="#a"/>
+            <ellipse cx="13.06" cy="23.237" fill="#717171" mask="url(#b)" rx="9.795" ry="9.784"/>
+            <use fill="#FFF" xlink:href="#c"/>
+        </g>
+    </g>
+</svg>
